@@ -1,0 +1,511 @@
+TNichijyouNavigationController
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D5F25270000000000000110
+t1298081063
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+c000000004D4F6A4700000000000001A7
+t1297050183
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D608000000000026CB10
+t1297405448
+s2542352
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/Availability.h
+c000000004D4F74C20000000000001B19
+t1297052866
+s6937
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/0.png
+c000000004DC6284F00000000000A80D0
+t1304832079
+s688336
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/1.png
+c000000004DC6285000000000000AA406
+t1304832080
+s697350
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/10.png
+c000000004DC6286100000000000789CA
+t1304832097
+s494026
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/11.png
+c000000004DC628620000000000064E89
+t1304832098
+s413321
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/12.png
+c000000004DC6286300000000000A1B9F
+t1304832099
+s662431
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/13.png
+c000000004DC62864000000000008EDED
+t1304832100
+s585197
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/14.png
+c000000004DC62865000000000008F7B5
+t1304832101
+s587701
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/15.png
+c000000004DC6286600000000000342CE
+t1304832102
+s213710
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/2.png
+c000000004DC6285100000000000B1C80
+t1304832081
+s728192
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/3.png
+c000000004DC6285700000000000A2639
+t1304832087
+s665145
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/4.png
+c000000004DC6285B00000000000A3942
+t1304832091
+s670018
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/5.png
+c000000004DC6285D00000000000A7F26
+t1304832093
+s687910
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/6.png
+c000000004DC6285D00000000000B31E8
+t1304832093
+s733672
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/7.png
+c000000004DC6285E000000000008921D
+t1304832094
+s561693
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/8.png
+c000000004DC6285F0000000000085F25
+t1304832095
+s548645
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/9.png
+c000000004DC628600000000000091FF4
+t1304832096
+s598004
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/Classes/NichijyouNavigationControllerAppDelegate.h
+c000000004DC5F74F0000000000000237
+t1304819535
+s567
+i<UIKit/UIKit.h>
+i"NichijyouNavigationController.h"
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/Classes/NichijyouNavigationControllerAppDelegate.m
+c000000004DC5F71D0000000000000B08
+t1304819485
+s2824
+i"NichijyouNavigationControllerAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/Classes/RootViewController.h
+c000000004DC5F71D00000000000000F2
+t1304819485
+s242
+i<UIKit/UIKit.h>
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/Classes/RootViewController.m
+c000000004DC5F71D00000000000010CA
+t1304819485
+s4298
+i"RootViewController.h"
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/MainWindow.xib
+c000000004DC5F7670000000000006384
+t1304819559
+s25476
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/NichijyouNavigationController.h
+c000000004DC5F6C3000000000000019E
+t1304819395
+s414
+i<UIKit/UIKit.h>
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/NichijyouNavigationController.m
+c000000004DC5F6DA00000000000004CF
+t1304819418
+s1231
+i"NichijyouNavigationController.h"
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/NichijyouNavigationController_Prefix.pch
+c000000004DC5F71D000000000000016C
+t1304819485
+s364
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/NichijyouTransparentView.h
+c000000004DC5F58300000000000001E7
+t1304819075
+s487
+i<UIKit/UIKit.h>
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/NichijyouTransparentView.m
+c000000004DC5F5C40000000000000381
+t1304819140
+s897
+i"NichijyouTransparentView.h"
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/RootViewController.xib
+c000000004DC6286C0000000000006142
+t1304832108
+s24898
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app.dSYM
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/0.png
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/1.png
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/10.png
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/11.png
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/12.png
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/13.png
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/14.png
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/15.png
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/2.png
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/3.png
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/4.png
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/5.png
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/6.png
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/7.png
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/8.png
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/9.png
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/Info.plist
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/MainWindow.nib
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/NichijyouNavigationController
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/PkgInfo
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/ResourceRules.plist
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/RootViewController.nib
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/NichijyouNavigationController.xcent
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv6/NichijyouNavigationController
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv6/NichijyouNavigationController.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv6/NichijyouNavigationController.o
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv6/NichijyouNavigationControllerAppDelegate.o
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv6/NichijyouTransparentView.o
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv6/RootViewController.o
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv7/NichijyouNavigationController
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv7/NichijyouNavigationController.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv7/NichijyouNavigationController.o
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv7/NichijyouNavigationControllerAppDelegate.o
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv7/NichijyouTransparentView.o
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv7/RootViewController.o
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/main.m
+c000000004DC5F71D0000000000000170
+t1304819485
+s368
+i<UIKit/UIKit.h>
+
+N/Users/b123400/Library/MobileDevice/Provisioning Profiles/FCE7E0A8-FA90-4511-AB8E-D60DCF4C36BE.mobileprovision
+c000000004DB5C78A0000000000001DE0
+t1303758730
+s7648
+
+N/var/folders/ZS/ZSVzFYAQGGGodLpRWw+8Xk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NichijyouNavigationController_Prefix-avqffxorqkqswtgxtnwflblgszqs/NichijyouNavigationController_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/ZS/ZSVzFYAQGGGodLpRWw+8Xk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NichijyouNavigationController_Prefix-hfrumdshewrwtjgaoeseqvkwfgzw/NichijyouNavigationController_Prefix.pch.gch
+t2
+s0
+
+NNichijyouNavigationController-Info.plist
+c000000004DC5F71D000000000000038D
+t1304819485
+s909
+
+CCodeSign "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app"
+r0
+
+CCompileC build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv6/NichijyouNavigationController.o "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/NichijyouNavigationController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv6/NichijyouNavigationControllerAppDelegate.o "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/Classes/NichijyouNavigationControllerAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv6/NichijyouTransparentView.o "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/NichijyouTransparentView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv6/RootViewController.o "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/Classes/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv6/main.o "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv7/NichijyouNavigationController.o "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/NichijyouNavigationController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv7/NichijyouNavigationControllerAppDelegate.o "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/Classes/NichijyouNavigationControllerAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv7/NichijyouTransparentView.o "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/NichijyouTransparentView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv7/RootViewController.o "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/Classes/RootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv7/main.o "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/RootViewController.xib"
+r0
+
+CCopyPNGFile "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/0.png" 0.png
+r0
+
+CCopyPNGFile "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/1.png" 1.png
+r0
+
+CCopyPNGFile "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/10.png" 10.png
+r0
+
+CCopyPNGFile "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/11.png" 11.png
+r0
+
+CCopyPNGFile "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/12.png" 12.png
+r0
+
+CCopyPNGFile "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/13.png" 13.png
+r0
+
+CCopyPNGFile "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/14.png" 14.png
+r0
+
+CCopyPNGFile "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/15.png" 15.png
+r0
+
+CCopyPNGFile "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/2.png" 2.png
+r0
+
+CCopyPNGFile "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/3.png" 3.png
+r0
+
+CCopyPNGFile "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/4.png" 4.png
+r0
+
+CCopyPNGFile "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/5.png" 5.png
+r0
+
+CCopyPNGFile "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/6.png" 6.png
+r0
+
+CCopyPNGFile "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/7.png" 7.png
+r0
+
+CCopyPNGFile "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/8.png" 8.png
+r0
+
+CCopyPNGFile "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/9.png" 9.png
+r0
+
+CCpResource build/Debug-iphoneos/NichijyouNavigationController.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/NichijyouNavigationController" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app.dSYM" "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/NichijyouNavigationController"
+r0
+
+CGenerateDSYMFile "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app.dSYM" "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv6/NichijyouNavigationController"
+r0
+
+CLd "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv6/NichijyouNavigationController" normal armv6
+r0
+
+CLd "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/Objects-normal/armv7/NichijyouNavigationController" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/Info.plist" NichijyouNavigationController-Info.plist
+r0
+
+CProcessPCH /var/folders/ZS/ZSVzFYAQGGGodLpRWw+8Xk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NichijyouNavigationController_Prefix-avqffxorqkqswtgxtnwflblgszqs/NichijyouNavigationController_Prefix.pch.gch NichijyouNavigationController_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/ZS/ZSVzFYAQGGGodLpRWw+8Xk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NichijyouNavigationController_Prefix-hfrumdshewrwtjgaoeseqvkwfgzw/NichijyouNavigationController_Prefix.pch.gch NichijyouNavigationController_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/b123400/Library/MobileDevice/Provisioning Profiles/FCE7E0A8-FA90-4511-AB8E-D60DCF4C36BE.mobileprovision" "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/NichijyouNavigationController.build/Debug-iphoneos/NichijyouNavigationController.build/NichijyouNavigationController.xcent"
+r0
+
+CTouch "/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/build/Debug-iphoneos/NichijyouNavigationController.app"
+r0
+

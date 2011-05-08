@@ -1,0 +1,6 @@
+How to use:
+Replace your UINavigationController with NichijyouNavigationController.
+
+By default, it zooms into the point that user last tapped, you can customize it using pushViewController: atCenter:
+
+You can also set the disableFade property to YES to disable the fade out and in animation, default is NO;

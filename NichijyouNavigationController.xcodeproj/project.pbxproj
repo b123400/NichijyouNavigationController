@@ -1,0 +1,355 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* NichijyouNavigationControllerAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* NichijyouNavigationControllerAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */; };
+		28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD735F0D9D9599002E5188 /* MainWindow.xib */; };
+		28C286E10D94DF7D0034E888 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */; };
+		28F335F11007B36200424DE2 /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28F335F01007B36200424DE2 /* RootViewController.xib */; };
+		CFF7FB1613762EB100772DEE /* NichijyouNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = CFF7FB1313762EB100772DEE /* NichijyouNavigationController.m */; };
+		CFF7FB1713762EB100772DEE /* NichijyouTransparentView.m in Sources */ = {isa = PBXBuildFile; fileRef = CFF7FB1513762EB100772DEE /* NichijyouTransparentView.m */; };
+		CFF7FB4D137637FC00772DEE /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFF7FB4C137637FC00772DEE /* QuartzCore.framework */; };
+		CFF7FCE613765D4700772DEE /* 15.png in Resources */ = {isa = PBXBuildFile; fileRef = CFF7FCD613765D4700772DEE /* 15.png */; };
+		CFF7FCE713765D4700772DEE /* 14.png in Resources */ = {isa = PBXBuildFile; fileRef = CFF7FCD713765D4700772DEE /* 14.png */; };
+		CFF7FCE813765D4700772DEE /* 13.png in Resources */ = {isa = PBXBuildFile; fileRef = CFF7FCD813765D4700772DEE /* 13.png */; };
+		CFF7FCE913765D4700772DEE /* 12.png in Resources */ = {isa = PBXBuildFile; fileRef = CFF7FCD913765D4700772DEE /* 12.png */; };
+		CFF7FCEA13765D4700772DEE /* 11.png in Resources */ = {isa = PBXBuildFile; fileRef = CFF7FCDA13765D4700772DEE /* 11.png */; };
+		CFF7FCEB13765D4700772DEE /* 10.png in Resources */ = {isa = PBXBuildFile; fileRef = CFF7FCDB13765D4700772DEE /* 10.png */; };
+		CFF7FCEC13765D4700772DEE /* 9.png in Resources */ = {isa = PBXBuildFile; fileRef = CFF7FCDC13765D4700772DEE /* 9.png */; };
+		CFF7FCED13765D4700772DEE /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = CFF7FCDD13765D4700772DEE /* 8.png */; };
+		CFF7FCEE13765D4700772DEE /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = CFF7FCDE13765D4700772DEE /* 7.png */; };
+		CFF7FCEF13765D4700772DEE /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = CFF7FCDF13765D4700772DEE /* 6.png */; };
+		CFF7FCF013765D4700772DEE /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = CFF7FCE013765D4700772DEE /* 5.png */; };
+		CFF7FCF113765D4700772DEE /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = CFF7FCE113765D4700772DEE /* 4.png */; };
+		CFF7FCF213765D4700772DEE /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = CFF7FCE213765D4700772DEE /* 3.png */; };
+		CFF7FCF313765D4700772DEE /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = CFF7FCE313765D4700772DEE /* 2.png */; };
+		CFF7FCF413765D4700772DEE /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = CFF7FCE413765D4700772DEE /* 1.png */; };
+		CFF7FCF513765D4700772DEE /* 0.png in Resources */ = {isa = PBXBuildFile; fileRef = CFF7FCE513765D4700772DEE /* 0.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* NichijyouNavigationControllerAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NichijyouNavigationControllerAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* NichijyouNavigationControllerAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NichijyouNavigationControllerAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* NichijyouNavigationController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NichijyouNavigationController.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28A0AAE50D9B0CCF005BE974 /* NichijyouNavigationController_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NichijyouNavigationController_Prefix.pch; sourceTree = "<group>"; };
+		28AD735F0D9D9599002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		28C286E00D94DF7D0034E888 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		28F335F01007B36200424DE2 /* RootViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RootViewController.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* NichijyouNavigationController-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "NichijyouNavigationController-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		CFF7FB1213762EB100772DEE /* NichijyouNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NichijyouNavigationController.h; sourceTree = "<group>"; };
+		CFF7FB1313762EB100772DEE /* NichijyouNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NichijyouNavigationController.m; sourceTree = "<group>"; };
+		CFF7FB1413762EB100772DEE /* NichijyouTransparentView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NichijyouTransparentView.h; sourceTree = "<group>"; };
+		CFF7FB1513762EB100772DEE /* NichijyouTransparentView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NichijyouTransparentView.m; sourceTree = "<group>"; };
+		CFF7FB4C137637FC00772DEE /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		CFF7FCD613765D4700772DEE /* 15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 15.png; sourceTree = "<group>"; };
+		CFF7FCD713765D4700772DEE /* 14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 14.png; sourceTree = "<group>"; };
+		CFF7FCD813765D4700772DEE /* 13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 13.png; sourceTree = "<group>"; };
+		CFF7FCD913765D4700772DEE /* 12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 12.png; sourceTree = "<group>"; };
+		CFF7FCDA13765D4700772DEE /* 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11.png; sourceTree = "<group>"; };
+		CFF7FCDB13765D4700772DEE /* 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10.png; sourceTree = "<group>"; };
+		CFF7FCDC13765D4700772DEE /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9.png; sourceTree = "<group>"; };
+		CFF7FCDD13765D4700772DEE /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		CFF7FCDE13765D4700772DEE /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		CFF7FCDF13765D4700772DEE /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		CFF7FCE013765D4700772DEE /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		CFF7FCE113765D4700772DEE /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		CFF7FCE213765D4700772DEE /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		CFF7FCE313765D4700772DEE /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		CFF7FCE413765D4700772DEE /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		CFF7FCE513765D4700772DEE /* 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */,
+				CFF7FB4D137637FC00772DEE /* QuartzCore.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				28C286DF0D94DF7D0034E888 /* RootViewController.h */,
+				28C286E00D94DF7D0034E888 /* RootViewController.m */,
+				1D3623240D0F684500981E51 /* NichijyouNavigationControllerAppDelegate.h */,
+				1D3623250D0F684500981E51 /* NichijyouNavigationControllerAppDelegate.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* NichijyouNavigationController.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				CFF7FB0A13762EA400772DEE /* NichijyouNavigationController */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				CFF7FCD313765D0700772DEE /* Images */,
+				28A0AAE50D9B0CCF005BE974 /* NichijyouNavigationController_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				28F335F01007B36200424DE2 /* RootViewController.xib */,
+				28AD735F0D9D9599002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* NichijyouNavigationController-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CFF7FB4C137637FC00772DEE /* QuartzCore.framework */,
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		CFF7FB0A13762EA400772DEE /* NichijyouNavigationController */ = {
+			isa = PBXGroup;
+			children = (
+				CFF7FB1213762EB100772DEE /* NichijyouNavigationController.h */,
+				CFF7FB1313762EB100772DEE /* NichijyouNavigationController.m */,
+				CFF7FB1413762EB100772DEE /* NichijyouTransparentView.h */,
+				CFF7FB1513762EB100772DEE /* NichijyouTransparentView.m */,
+			);
+			name = NichijyouNavigationController;
+			sourceTree = "<group>";
+		};
+		CFF7FCD313765D0700772DEE /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				CFF7FCD613765D4700772DEE /* 15.png */,
+				CFF7FCD713765D4700772DEE /* 14.png */,
+				CFF7FCD813765D4700772DEE /* 13.png */,
+				CFF7FCD913765D4700772DEE /* 12.png */,
+				CFF7FCDA13765D4700772DEE /* 11.png */,
+				CFF7FCDB13765D4700772DEE /* 10.png */,
+				CFF7FCDC13765D4700772DEE /* 9.png */,
+				CFF7FCDD13765D4700772DEE /* 8.png */,
+				CFF7FCDE13765D4700772DEE /* 7.png */,
+				CFF7FCDF13765D4700772DEE /* 6.png */,
+				CFF7FCE013765D4700772DEE /* 5.png */,
+				CFF7FCE113765D4700772DEE /* 4.png */,
+				CFF7FCE213765D4700772DEE /* 3.png */,
+				CFF7FCE313765D4700772DEE /* 2.png */,
+				CFF7FCE413765D4700772DEE /* 1.png */,
+				CFF7FCE513765D4700772DEE /* 0.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* NichijyouNavigationController */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "NichijyouNavigationController" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = NichijyouNavigationController;
+			productName = NichijyouNavigationController;
+			productReference = 1D6058910D05DD3D006BFB54 /* NichijyouNavigationController.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "NichijyouNavigationController" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				en,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* NichijyouNavigationController */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */,
+				28F335F11007B36200424DE2 /* RootViewController.xib in Resources */,
+				CFF7FCE613765D4700772DEE /* 15.png in Resources */,
+				CFF7FCE713765D4700772DEE /* 14.png in Resources */,
+				CFF7FCE813765D4700772DEE /* 13.png in Resources */,
+				CFF7FCE913765D4700772DEE /* 12.png in Resources */,
+				CFF7FCEA13765D4700772DEE /* 11.png in Resources */,
+				CFF7FCEB13765D4700772DEE /* 10.png in Resources */,
+				CFF7FCEC13765D4700772DEE /* 9.png in Resources */,
+				CFF7FCED13765D4700772DEE /* 8.png in Resources */,
+				CFF7FCEE13765D4700772DEE /* 7.png in Resources */,
+				CFF7FCEF13765D4700772DEE /* 6.png in Resources */,
+				CFF7FCF013765D4700772DEE /* 5.png in Resources */,
+				CFF7FCF113765D4700772DEE /* 4.png in Resources */,
+				CFF7FCF213765D4700772DEE /* 3.png in Resources */,
+				CFF7FCF313765D4700772DEE /* 2.png in Resources */,
+				CFF7FCF413765D4700772DEE /* 1.png in Resources */,
+				CFF7FCF513765D4700772DEE /* 0.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* NichijyouNavigationControllerAppDelegate.m in Sources */,
+				28C286E10D94DF7D0034E888 /* RootViewController.m in Sources */,
+				CFF7FB1613762EB100772DEE /* NichijyouNavigationController.m in Sources */,
+				CFF7FB1713762EB100772DEE /* NichijyouTransparentView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = NichijyouNavigationController_Prefix.pch;
+				INFOPLIST_FILE = "NichijyouNavigationController-Info.plist";
+				PRODUCT_NAME = NichijyouNavigationController;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = NichijyouNavigationController_Prefix.pch;
+				INFOPLIST_FILE = "NichijyouNavigationController-Info.plist";
+				PRODUCT_NAME = NichijyouNavigationController;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "NichijyouNavigationController" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "NichijyouNavigationController" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

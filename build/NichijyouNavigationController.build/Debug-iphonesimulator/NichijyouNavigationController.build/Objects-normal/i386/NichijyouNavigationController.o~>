@@ -1,0 +1,14 @@
+/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/NichijyouNavigationController.m: In function '-[NichijyouNavigationController popViewControllerAnimated:]':
+/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/NichijyouNavigationController.m:240: warning: conflicting types for '-(void)popViewControllerAnimated:(BOOL)animated'
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UINavigationController.h:75: warning: previous declaration of '-(UIViewController *)popViewControllerAnimated:(BOOL)animated'
+/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/NichijyouNavigationController.m: In function '-[NichijyouNavigationController popToRootViewControllerAnimated:]':
+/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/NichijyouNavigationController.m:243: warning: conflicting types for '-(void)popToRootViewControllerAnimated:(BOOL)animated'
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UINavigationController.h:77: warning: previous declaration of '-(NSArray *)popToRootViewControllerAnimated:(BOOL)animated'
+/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/NichijyouNavigationController.m: In function '-[NichijyouNavigationController popToViewController:animated:]':
+/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/NichijyouNavigationController.m:248: warning: conflicting types for '-(void)popToViewController:(UIViewController *)viewController animated:(BOOL)animated'
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UINavigationController.h:76: warning: previous declaration of '-(NSArray *)popToViewController:(UIViewController *)viewController animated:(BOOL)animated'
+/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/NichijyouNavigationController.m: In function '-[NichijyouNavigationController subviewsToAnimateForViewController:]':
+/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/NichijyouNavigationController.m:440: warning: 'UIViewController' may not respond to '-viewsForNichijyouNavigationControllerToAnimate:'
+/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/NichijyouNavigationController.m:440: warning: (Messages without a matching method signature
+/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/NichijyouNavigationController.m:440: warning: will be assumed to return 'id' and accept
+/Users/b123400/Dropbox/iphone app/NichijyouNavigationController/NichijyouNavigationController.m:440: warning: '...' as arguments.)
